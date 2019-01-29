@@ -27,5 +27,7 @@ export class HomePage implements OnInit {
 
   onClick(name : String) {
     console.log(name);
+
+    // do your page navigation here and pass the data to next page
   }
 }
